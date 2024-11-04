@@ -1,0 +1,2 @@
+function e(a,t){return{description:"Designed for agencies, portfolios, and personal brands, it seamlessly blends minimalist aesthetics with dynamic animations. Showcase your work in style with a sleek interface that flawlessly adapts to any device.",favicon:"https://framerusercontent.com/assets/eCX2l5CSlTjb9d7xevX1VTxpwWc.svg",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/lpBCQr5W4Ewj19l58acLZ2k3I4.png",title:"Cohesion - Portfolio Template made in Framer"}}export{e as a};
+//# sourceMappingURL=chunk-IQ7O3X3Z.mjs.map
